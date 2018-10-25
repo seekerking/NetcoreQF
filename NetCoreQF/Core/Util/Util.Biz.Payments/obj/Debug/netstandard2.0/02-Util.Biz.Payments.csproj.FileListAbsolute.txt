@@ -1,0 +1,13 @@
+E:\Study\ebooks\Net\Study\Util-master\Util-master\output\release\netstandard2.0\Util.Biz.Payments.xml
+E:\Study\ebooks\Net\Study\Util-master\Util-master\output\release\netstandard2.0\Util.Biz.Payments.deps.json
+E:\Study\ebooks\Net\Study\Util-master\Util-master\output\release\netstandard2.0\Util.Biz.Payments.dll
+E:\Study\ebooks\Net\Study\Util-master\Util-master\output\release\netstandard2.0\Util.Biz.Payments.pdb
+E:\Study\ebooks\Net\Study\Util-master\Util-master\src\Util.Biz.Payments\obj\Debug\netstandard2.0\02-Util.Biz.Payments.csprojAssemblyReference.cache
+E:\Study\ebooks\Net\Study\Util-master\Util-master\src\Util.Biz.Payments\obj\Debug\netstandard2.0\Util.Biz.Payments.Properties.PayResource.resources
+E:\Study\ebooks\Net\Study\Util-master\Util-master\src\Util.Biz.Payments\obj\Debug\netstandard2.0\02-Util.Biz.Payments.csproj.GenerateResource.cache
+E:\Study\ebooks\Net\Study\Util-master\Util-master\src\Util.Biz.Payments\obj\Debug\netstandard2.0\02-Util.Biz.Payments.csproj.CoreCompileInputs.cache
+E:\Study\ebooks\Net\Study\Util-master\Util-master\src\Util.Biz.Payments\obj\Debug\netstandard2.0\02-Util.Biz.Payments.AssemblyInfoInputs.cache
+E:\Study\ebooks\Net\Study\Util-master\Util-master\src\Util.Biz.Payments\obj\Debug\netstandard2.0\02-Util.Biz.Payments.AssemblyInfo.cs
+E:\Study\ebooks\Net\Study\Util-master\Util-master\src\Util.Biz.Payments\obj\Debug\netstandard2.0\02-Util.Biz.Payments.csproj.CopyComplete
+E:\Study\ebooks\Net\Study\Util-master\Util-master\src\Util.Biz.Payments\obj\Debug\netstandard2.0\Util.Biz.Payments.dll
+E:\Study\ebooks\Net\Study\Util-master\Util-master\src\Util.Biz.Payments\obj\Debug\netstandard2.0\Util.Biz.Payments.pdb

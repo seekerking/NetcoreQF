@@ -1,0 +1,11 @@
+E:\Study\ebooks\Net\Study\Util-master\Util-master\output\release\netstandard2.0\Util.Tools.QrCode.xml
+E:\Study\ebooks\Net\Study\Util-master\Util-master\output\release\netstandard2.0\Util.Tools.QrCode.deps.json
+E:\Study\ebooks\Net\Study\Util-master\Util-master\output\release\netstandard2.0\Util.Tools.QrCode.dll
+E:\Study\ebooks\Net\Study\Util-master\Util-master\output\release\netstandard2.0\Util.Tools.QrCode.pdb
+E:\Study\ebooks\Net\Study\Util-master\Util-master\src\Util.Tools.QrCode\obj\Debug\netstandard2.0\01-Util.Tools.QrCode.csprojAssemblyReference.cache
+E:\Study\ebooks\Net\Study\Util-master\Util-master\src\Util.Tools.QrCode\obj\Debug\netstandard2.0\01-Util.Tools.QrCode.csproj.CoreCompileInputs.cache
+E:\Study\ebooks\Net\Study\Util-master\Util-master\src\Util.Tools.QrCode\obj\Debug\netstandard2.0\01-Util.Tools.QrCode.AssemblyInfoInputs.cache
+E:\Study\ebooks\Net\Study\Util-master\Util-master\src\Util.Tools.QrCode\obj\Debug\netstandard2.0\01-Util.Tools.QrCode.AssemblyInfo.cs
+E:\Study\ebooks\Net\Study\Util-master\Util-master\src\Util.Tools.QrCode\obj\Debug\netstandard2.0\01-Util.Tools.QrCode.csproj.CopyComplete
+E:\Study\ebooks\Net\Study\Util-master\Util-master\src\Util.Tools.QrCode\obj\Debug\netstandard2.0\Util.Tools.QrCode.dll
+E:\Study\ebooks\Net\Study\Util-master\Util-master\src\Util.Tools.QrCode\obj\Debug\netstandard2.0\Util.Tools.QrCode.pdb

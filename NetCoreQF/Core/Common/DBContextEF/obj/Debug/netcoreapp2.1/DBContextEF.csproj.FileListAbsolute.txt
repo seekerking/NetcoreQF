@@ -1,0 +1,11 @@
+E:\Study\ebooks\Net\Study\Net-Core-Development-master\.Net-Core-Development-master\DBContextEF\bin\Debug\netcoreapp2.1\DBContextEF.deps.json
+E:\Study\ebooks\Net\Study\Net-Core-Development-master\.Net-Core-Development-master\DBContextEF\bin\Debug\netcoreapp2.1\DBContextEF.runtimeconfig.json
+E:\Study\ebooks\Net\Study\Net-Core-Development-master\.Net-Core-Development-master\DBContextEF\bin\Debug\netcoreapp2.1\DBContextEF.runtimeconfig.dev.json
+E:\Study\ebooks\Net\Study\Net-Core-Development-master\.Net-Core-Development-master\DBContextEF\bin\Debug\netcoreapp2.1\DBContextEF.dll
+E:\Study\ebooks\Net\Study\Net-Core-Development-master\.Net-Core-Development-master\DBContextEF\bin\Debug\netcoreapp2.1\DBContextEF.pdb
+E:\Study\ebooks\Net\Study\Net-Core-Development-master\.Net-Core-Development-master\DBContextEF\obj\Debug\netcoreapp2.1\DBContextEF.csprojAssemblyReference.cache
+E:\Study\ebooks\Net\Study\Net-Core-Development-master\.Net-Core-Development-master\DBContextEF\obj\Debug\netcoreapp2.1\DBContextEF.csproj.CoreCompileInputs.cache
+E:\Study\ebooks\Net\Study\Net-Core-Development-master\.Net-Core-Development-master\DBContextEF\obj\Debug\netcoreapp2.1\DBContextEF.AssemblyInfoInputs.cache
+E:\Study\ebooks\Net\Study\Net-Core-Development-master\.Net-Core-Development-master\DBContextEF\obj\Debug\netcoreapp2.1\DBContextEF.AssemblyInfo.cs
+E:\Study\ebooks\Net\Study\Net-Core-Development-master\.Net-Core-Development-master\DBContextEF\obj\Debug\netcoreapp2.1\DBContextEF.dll
+E:\Study\ebooks\Net\Study\Net-Core-Development-master\.Net-Core-Development-master\DBContextEF\obj\Debug\netcoreapp2.1\DBContextEF.pdb

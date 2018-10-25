@@ -1,0 +1,11 @@
+E:\Study\ebooks\Net\Study\Util-master\Util-master\output\release\netstandard2.0\Util.Events.xml
+E:\Study\ebooks\Net\Study\Util-master\Util-master\output\release\netstandard2.0\Util.Events.deps.json
+E:\Study\ebooks\Net\Study\Util-master\Util-master\output\release\netstandard2.0\Util.Events.dll
+E:\Study\ebooks\Net\Study\Util-master\Util-master\output\release\netstandard2.0\Util.Events.pdb
+E:\Study\ebooks\Net\Study\Util-master\Util-master\src\Util.Events\obj\Debug\netstandard2.0\04-Util.Events.csprojAssemblyReference.cache
+E:\Study\ebooks\Net\Study\Util-master\Util-master\src\Util.Events\obj\Debug\netstandard2.0\04-Util.Events.csproj.CoreCompileInputs.cache
+E:\Study\ebooks\Net\Study\Util-master\Util-master\src\Util.Events\obj\Debug\netstandard2.0\04-Util.Events.AssemblyInfoInputs.cache
+E:\Study\ebooks\Net\Study\Util-master\Util-master\src\Util.Events\obj\Debug\netstandard2.0\04-Util.Events.AssemblyInfo.cs
+E:\Study\ebooks\Net\Study\Util-master\Util-master\src\Util.Events\obj\Debug\netstandard2.0\04-Util.Events.csproj.CopyComplete
+E:\Study\ebooks\Net\Study\Util-master\Util-master\src\Util.Events\obj\Debug\netstandard2.0\Util.Events.dll
+E:\Study\ebooks\Net\Study\Util-master\Util-master\src\Util.Events\obj\Debug\netstandard2.0\Util.Events.pdb

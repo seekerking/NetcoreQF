@@ -1,0 +1,10 @@
+E:\Study\ebooks\Net\Study\Net-Core-Development-master\.Net-Core-Development-master\CoreHelper\bin\Debug\Helper.Core.Library.dll
+E:\Study\ebooks\Net\Study\Net-Core-Development-master\.Net-Core-Development-master\CoreHelper\bin\Debug\Helper.Core.Library.pdb
+E:\Study\ebooks\Net\Study\Net-Core-Development-master\.Net-Core-Development-master\CoreHelper\bin\Debug\Interop.MSScriptControl.dll
+E:\Study\ebooks\Net\Study\Net-Core-Development-master\.Net-Core-Development-master\CoreHelper\obj\Debug\HelperCoreLibrary.csprojAssemblyReference.cache
+E:\Study\ebooks\Net\Study\Net-Core-Development-master\.Net-Core-Development-master\CoreHelper\obj\Debug\Interop.MSScriptControl.dll
+E:\Study\ebooks\Net\Study\Net-Core-Development-master\.Net-Core-Development-master\CoreHelper\obj\Debug\HelperCoreLibrary.csproj.ResolveComReference.cache
+E:\Study\ebooks\Net\Study\Net-Core-Development-master\.Net-Core-Development-master\CoreHelper\obj\Debug\HelperCoreLibrary.csproj.CoreCompileInputs.cache
+E:\Study\ebooks\Net\Study\Net-Core-Development-master\.Net-Core-Development-master\CoreHelper\obj\Debug\HelperCoreLibrary.csproj.CopyComplete
+E:\Study\ebooks\Net\Study\Net-Core-Development-master\.Net-Core-Development-master\CoreHelper\obj\Debug\Helper.Core.Library.dll
+E:\Study\ebooks\Net\Study\Net-Core-Development-master\.Net-Core-Development-master\CoreHelper\obj\Debug\Helper.Core.Library.pdb

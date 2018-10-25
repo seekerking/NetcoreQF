@@ -1,0 +1,11 @@
+E:\Study\ebooks\Net\Study\Util-master\Util-master\output\release\netstandard2.0\Util.Biz.xml
+E:\Study\ebooks\Net\Study\Util-master\Util-master\output\release\netstandard2.0\Util.Biz.deps.json
+E:\Study\ebooks\Net\Study\Util-master\Util-master\output\release\netstandard2.0\Util.Biz.dll
+E:\Study\ebooks\Net\Study\Util-master\Util-master\output\release\netstandard2.0\Util.Biz.pdb
+E:\Study\ebooks\Net\Study\Util-master\Util-master\src\Util.Biz\obj\Debug\netstandard2.0\01-Util.Biz.csprojAssemblyReference.cache
+E:\Study\ebooks\Net\Study\Util-master\Util-master\src\Util.Biz\obj\Debug\netstandard2.0\01-Util.Biz.csproj.CoreCompileInputs.cache
+E:\Study\ebooks\Net\Study\Util-master\Util-master\src\Util.Biz\obj\Debug\netstandard2.0\01-Util.Biz.AssemblyInfoInputs.cache
+E:\Study\ebooks\Net\Study\Util-master\Util-master\src\Util.Biz\obj\Debug\netstandard2.0\01-Util.Biz.AssemblyInfo.cs
+E:\Study\ebooks\Net\Study\Util-master\Util-master\src\Util.Biz\obj\Debug\netstandard2.0\01-Util.Biz.csproj.CopyComplete
+E:\Study\ebooks\Net\Study\Util-master\Util-master\src\Util.Biz\obj\Debug\netstandard2.0\Util.Biz.dll
+E:\Study\ebooks\Net\Study\Util-master\Util-master\src\Util.Biz\obj\Debug\netstandard2.0\Util.Biz.pdb

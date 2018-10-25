@@ -1,0 +1,10 @@
+E:\Study\ebooks\Net\Study\Net-Core-Development-master\.Net-Core-Development-master\CoreCommon\bin\Debug\netstandard2.0\NLog.config
+E:\Study\ebooks\Net\Study\Net-Core-Development-master\.Net-Core-Development-master\CoreCommon\bin\Debug\netstandard2.0\CoreCommon.deps.json
+E:\Study\ebooks\Net\Study\Net-Core-Development-master\.Net-Core-Development-master\CoreCommon\bin\Debug\netstandard2.0\CoreCommon.dll
+E:\Study\ebooks\Net\Study\Net-Core-Development-master\.Net-Core-Development-master\CoreCommon\bin\Debug\netstandard2.0\CoreCommon.pdb
+E:\Study\ebooks\Net\Study\Net-Core-Development-master\.Net-Core-Development-master\CoreCommon\obj\Debug\netstandard2.0\CoreCommon.csprojAssemblyReference.cache
+E:\Study\ebooks\Net\Study\Net-Core-Development-master\.Net-Core-Development-master\CoreCommon\obj\Debug\netstandard2.0\CoreCommon.csproj.CoreCompileInputs.cache
+E:\Study\ebooks\Net\Study\Net-Core-Development-master\.Net-Core-Development-master\CoreCommon\obj\Debug\netstandard2.0\CoreCommon.AssemblyInfoInputs.cache
+E:\Study\ebooks\Net\Study\Net-Core-Development-master\.Net-Core-Development-master\CoreCommon\obj\Debug\netstandard2.0\CoreCommon.AssemblyInfo.cs
+E:\Study\ebooks\Net\Study\Net-Core-Development-master\.Net-Core-Development-master\CoreCommon\obj\Debug\netstandard2.0\CoreCommon.dll
+E:\Study\ebooks\Net\Study\Net-Core-Development-master\.Net-Core-Development-master\CoreCommon\obj\Debug\netstandard2.0\CoreCommon.pdb

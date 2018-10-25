@@ -1,0 +1,13 @@
+E:\Study\ebooks\Net\Study\Util-master\Util-master\output\release\netstandard2.0\Util.Security.xml
+E:\Study\ebooks\Net\Study\Util-master\Util-master\output\release\netstandard2.0\Util.Security.deps.json
+E:\Study\ebooks\Net\Study\Util-master\Util-master\output\release\netstandard2.0\Util.Security.dll
+E:\Study\ebooks\Net\Study\Util-master\Util-master\output\release\netstandard2.0\Util.Security.pdb
+E:\Study\ebooks\Net\Study\Util-master\Util-master\src\Util.Security\obj\Debug\netstandard2.0\02-Util.Security.csprojAssemblyReference.cache
+E:\Study\ebooks\Net\Study\Util-master\Util-master\src\Util.Security\obj\Debug\netstandard2.0\Util.Security.Properties.SecurityResource.resources
+E:\Study\ebooks\Net\Study\Util-master\Util-master\src\Util.Security\obj\Debug\netstandard2.0\02-Util.Security.csproj.GenerateResource.cache
+E:\Study\ebooks\Net\Study\Util-master\Util-master\src\Util.Security\obj\Debug\netstandard2.0\02-Util.Security.csproj.CoreCompileInputs.cache
+E:\Study\ebooks\Net\Study\Util-master\Util-master\src\Util.Security\obj\Debug\netstandard2.0\02-Util.Security.AssemblyInfoInputs.cache
+E:\Study\ebooks\Net\Study\Util-master\Util-master\src\Util.Security\obj\Debug\netstandard2.0\02-Util.Security.AssemblyInfo.cs
+E:\Study\ebooks\Net\Study\Util-master\Util-master\src\Util.Security\obj\Debug\netstandard2.0\02-Util.Security.csproj.CopyComplete
+E:\Study\ebooks\Net\Study\Util-master\Util-master\src\Util.Security\obj\Debug\netstandard2.0\Util.Security.dll
+E:\Study\ebooks\Net\Study\Util-master\Util-master\src\Util.Security\obj\Debug\netstandard2.0\Util.Security.pdb

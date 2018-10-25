@@ -1,0 +1,13 @@
+E:\Study\ebooks\Net\Study\Util-master\Util-master\output\release\netstandard2.0\Util.Webs.xml
+E:\Study\ebooks\Net\Study\Util-master\Util-master\output\release\netstandard2.0\Util.Webs.deps.json
+E:\Study\ebooks\Net\Study\Util-master\Util-master\output\release\netstandard2.0\Util.Webs.dll
+E:\Study\ebooks\Net\Study\Util-master\Util-master\output\release\netstandard2.0\Util.Webs.pdb
+E:\Study\ebooks\Net\Study\Util-master\Util-master\src\Util.Webs\obj\Debug\netstandard2.0\07-Util.Webs.csprojAssemblyReference.cache
+E:\Study\ebooks\Net\Study\Util-master\Util-master\src\Util.Webs\obj\Debug\netstandard2.0\Util.Webs.Properties.WebResource.resources
+E:\Study\ebooks\Net\Study\Util-master\Util-master\src\Util.Webs\obj\Debug\netstandard2.0\07-Util.Webs.csproj.GenerateResource.cache
+E:\Study\ebooks\Net\Study\Util-master\Util-master\src\Util.Webs\obj\Debug\netstandard2.0\07-Util.Webs.csproj.CoreCompileInputs.cache
+E:\Study\ebooks\Net\Study\Util-master\Util-master\src\Util.Webs\obj\Debug\netstandard2.0\07-Util.Webs.AssemblyInfoInputs.cache
+E:\Study\ebooks\Net\Study\Util-master\Util-master\src\Util.Webs\obj\Debug\netstandard2.0\07-Util.Webs.AssemblyInfo.cs
+E:\Study\ebooks\Net\Study\Util-master\Util-master\src\Util.Webs\obj\Debug\netstandard2.0\07-Util.Webs.csproj.CopyComplete
+E:\Study\ebooks\Net\Study\Util-master\Util-master\src\Util.Webs\obj\Debug\netstandard2.0\Util.Webs.dll
+E:\Study\ebooks\Net\Study\Util-master\Util-master\src\Util.Webs\obj\Debug\netstandard2.0\Util.Webs.pdb

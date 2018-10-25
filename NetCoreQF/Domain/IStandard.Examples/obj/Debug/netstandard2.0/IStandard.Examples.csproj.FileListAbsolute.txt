@@ -1,0 +1,13 @@
+E:\Study\ebooks\Net\Study\Net-Core-Development-master\.Net-Core-Development-master\IStandard.Examples\bin\Debug\netstandard2.0\NLog.config
+E:\Study\ebooks\Net\Study\Net-Core-Development-master\.Net-Core-Development-master\IStandard.Examples\bin\Debug\netstandard2.0\IStandard.Examples.deps.json
+E:\Study\ebooks\Net\Study\Net-Core-Development-master\.Net-Core-Development-master\IStandard.Examples\bin\Debug\netstandard2.0\IStandard.Examples.dll
+E:\Study\ebooks\Net\Study\Net-Core-Development-master\.Net-Core-Development-master\IStandard.Examples\bin\Debug\netstandard2.0\IStandard.Examples.pdb
+E:\Study\ebooks\Net\Study\Net-Core-Development-master\.Net-Core-Development-master\IStandard.Examples\bin\Debug\netstandard2.0\CoreCommon.dll
+E:\Study\ebooks\Net\Study\Net-Core-Development-master\.Net-Core-Development-master\IStandard.Examples\bin\Debug\netstandard2.0\CoreCommon.pdb
+E:\Study\ebooks\Net\Study\Net-Core-Development-master\.Net-Core-Development-master\IStandard.Examples\obj\Debug\netstandard2.0\IStandard.Examples.csprojAssemblyReference.cache
+E:\Study\ebooks\Net\Study\Net-Core-Development-master\.Net-Core-Development-master\IStandard.Examples\obj\Debug\netstandard2.0\IStandard.Examples.csproj.CoreCompileInputs.cache
+E:\Study\ebooks\Net\Study\Net-Core-Development-master\.Net-Core-Development-master\IStandard.Examples\obj\Debug\netstandard2.0\IStandard.Examples.AssemblyInfoInputs.cache
+E:\Study\ebooks\Net\Study\Net-Core-Development-master\.Net-Core-Development-master\IStandard.Examples\obj\Debug\netstandard2.0\IStandard.Examples.AssemblyInfo.cs
+E:\Study\ebooks\Net\Study\Net-Core-Development-master\.Net-Core-Development-master\IStandard.Examples\obj\Debug\netstandard2.0\IStandard.Examples.csproj.CopyComplete
+E:\Study\ebooks\Net\Study\Net-Core-Development-master\.Net-Core-Development-master\IStandard.Examples\obj\Debug\netstandard2.0\IStandard.Examples.dll
+E:\Study\ebooks\Net\Study\Net-Core-Development-master\.Net-Core-Development-master\IStandard.Examples\obj\Debug\netstandard2.0\IStandard.Examples.pdb

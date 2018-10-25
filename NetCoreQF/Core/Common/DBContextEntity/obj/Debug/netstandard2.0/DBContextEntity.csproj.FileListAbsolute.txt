@@ -1,0 +1,9 @@
+E:\Study\ebooks\Net\Study\Net-Core-Development-master\.Net-Core-Development-master\DBContextEntity\bin\Debug\netstandard2.0\DBContextEntity.deps.json
+E:\Study\ebooks\Net\Study\Net-Core-Development-master\.Net-Core-Development-master\DBContextEntity\bin\Debug\netstandard2.0\DBContextEntity.dll
+E:\Study\ebooks\Net\Study\Net-Core-Development-master\.Net-Core-Development-master\DBContextEntity\bin\Debug\netstandard2.0\DBContextEntity.pdb
+E:\Study\ebooks\Net\Study\Net-Core-Development-master\.Net-Core-Development-master\DBContextEntity\obj\Debug\netstandard2.0\DBContextEntity.csprojAssemblyReference.cache
+E:\Study\ebooks\Net\Study\Net-Core-Development-master\.Net-Core-Development-master\DBContextEntity\obj\Debug\netstandard2.0\DBContextEntity.csproj.CoreCompileInputs.cache
+E:\Study\ebooks\Net\Study\Net-Core-Development-master\.Net-Core-Development-master\DBContextEntity\obj\Debug\netstandard2.0\DBContextEntity.AssemblyInfoInputs.cache
+E:\Study\ebooks\Net\Study\Net-Core-Development-master\.Net-Core-Development-master\DBContextEntity\obj\Debug\netstandard2.0\DBContextEntity.AssemblyInfo.cs
+E:\Study\ebooks\Net\Study\Net-Core-Development-master\.Net-Core-Development-master\DBContextEntity\obj\Debug\netstandard2.0\DBContextEntity.dll
+E:\Study\ebooks\Net\Study\Net-Core-Development-master\.Net-Core-Development-master\DBContextEntity\obj\Debug\netstandard2.0\DBContextEntity.pdb

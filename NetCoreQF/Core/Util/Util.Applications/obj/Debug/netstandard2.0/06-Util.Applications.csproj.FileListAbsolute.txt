@@ -1,0 +1,11 @@
+E:\Study\ebooks\Net\Study\Util-master\Util-master\output\release\netstandard2.0\Util.Applications.xml
+E:\Study\ebooks\Net\Study\Util-master\Util-master\output\release\netstandard2.0\Util.Applications.deps.json
+E:\Study\ebooks\Net\Study\Util-master\Util-master\output\release\netstandard2.0\Util.Applications.dll
+E:\Study\ebooks\Net\Study\Util-master\Util-master\output\release\netstandard2.0\Util.Applications.pdb
+E:\Study\ebooks\Net\Study\Util-master\Util-master\src\Util.Applications\obj\Debug\netstandard2.0\06-Util.Applications.csprojAssemblyReference.cache
+E:\Study\ebooks\Net\Study\Util-master\Util-master\src\Util.Applications\obj\Debug\netstandard2.0\06-Util.Applications.csproj.CoreCompileInputs.cache
+E:\Study\ebooks\Net\Study\Util-master\Util-master\src\Util.Applications\obj\Debug\netstandard2.0\06-Util.Applications.AssemblyInfoInputs.cache
+E:\Study\ebooks\Net\Study\Util-master\Util-master\src\Util.Applications\obj\Debug\netstandard2.0\06-Util.Applications.AssemblyInfo.cs
+E:\Study\ebooks\Net\Study\Util-master\Util-master\src\Util.Applications\obj\Debug\netstandard2.0\06-Util.Applications.csproj.CopyComplete
+E:\Study\ebooks\Net\Study\Util-master\Util-master\src\Util.Applications\obj\Debug\netstandard2.0\Util.Applications.dll
+E:\Study\ebooks\Net\Study\Util-master\Util-master\src\Util.Applications\obj\Debug\netstandard2.0\Util.Applications.pdb
